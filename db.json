@@ -1,0 +1,8 @@
+{
+  "leite": [
+    { "id": 1, "total": 5000, "litros": 1000 },
+    { "id": 2, "total": 5000, "litros": 1000 },
+    { "id": 3, "total": 5000, "litros": 1000 }
+  ],
+  "temperature": [{ "id": 1, "celsius": 8.22 }, { "id": 2, "celsius": 7.98 }]
+}
