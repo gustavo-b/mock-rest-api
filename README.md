@@ -2,7 +2,7 @@
 
 ## Try it
 
-[https://github.com/gustavo-b/mock-rest-api/](https://github.com/gustavo-b/mock-rest-api/)
+[https://my-json-server.typicode.com/gustavo-b/mock-rest-api/](https://my-json-server.typicode.com/gustavo-b/mock-rest-api/)
 
 ## Use your own data
 
